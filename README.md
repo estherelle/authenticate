@@ -84,3 +84,4 @@ Based on [Essential React](https://github.com/pheuter/essential-react) starter k
 - [Comment](https://github.com/graphql/express-graphql/issues/9#issuecomment-143331902) on Relay issue by [murz](https://github.com/murz)
 
 ## [Changelog](CHANGELOG.md)
+# authenticate
